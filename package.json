@@ -1,0 +1,20 @@
+{
+  "name": "page-to-kindle",
+  "version": "0.2.1",
+  "description": "send any webpage to your kindle",
+  "main": "index.js",
+  "keywords": [
+    "kindle",
+    "webpage",
+    "push"
+  ],
+  "dependencies": {
+    "node-readability": "^0.3.3",
+    "nodemailer": "^1.2.1",
+    "phantom": "^0.6.5",
+    "underscore": "^1.7.0",
+    "when": "^3.4.4"
+  },
+  "author": "Michael Röber",
+  "license": "MIT"
+}
