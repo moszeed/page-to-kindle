@@ -15,6 +15,18 @@
     "underscore": "^1.7.0",
     "when": "^3.4.4"
   },
-  "author": "Michael Röber",
-  "license": "MIT"
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moszeed/page-to-kindle.git"
+  },
+
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/moszeed/easysoap/master/LICENSE"
+  },
+
+  "author": "Michael Röber"
 }
+
+
